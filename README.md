@@ -55,4 +55,4 @@ module Skill_Ass (
 endmodule
 ```
 # Result
-Thus, a3 bit synchronous counter is designed and simulated using Verilog.
+Thus, a 3 bit synchronous counter is designed and simulated using Verilog.
